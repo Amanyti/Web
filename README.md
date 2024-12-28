@@ -1,6 +1,6 @@
 # 🌐 Web Repository
 
-Este repositório contém uma coleção de pequenos projetos web criados para fins de aprendizado, experimentação e inspiração. Cada projeto é independente e abrange conceitos básicos de desenvolvimento web, como HTML, CSS, JavaScript.
+Este repositório contém uma coleção de pequenos projetos web encontrados na internet e no YouTube, criados para fins de aprendizado, experimentação e inspiração. Cada projeto é independente e abrange conceitos básicos de desenvolvimento web, como HTML, CSS e JavaScript.
 
 Cada projeto está em sua própria pasta, contendo os seguintes arquivos principais:
 - `index.html`: Estrutura básica do projeto.
