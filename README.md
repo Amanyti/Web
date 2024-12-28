@@ -24,6 +24,6 @@ Cada projeto está em sua própria pasta, contendo os seguintes arquivos princip
   
 - `Magic Box`: Um quadrado interativo que permite manipular sua cor, tamanho, bordas e formato por meio de inputs.
 
-  ![Magic_Box1](https://github.com/user-attachments/assets/3b3c2f3f-fee1-4f05-9402-0a1eb90f16aa)
-  ![Magic_Box2](https://github.com/user-attachments/assets/5d5af2cd-eefc-472a-bc0c-4da6ef7ebafd)
+![Magic_Box1](https://github.com/user-attachments/assets/c06a78b1-887b-442a-917a-0b592dab1256)
+![Magic_Box2](https://github.com/user-attachments/assets/f8acca75-83bf-4739-9bcd-d890c1527868)
 
