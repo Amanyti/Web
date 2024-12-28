@@ -11,5 +11,19 @@ Cada projeto está em sua própria pasta, contendo os seguintes arquivos princip
 
 ## 📂 Estrutura do Repositório
 - `Duck Jump`:  Um jogo simples onde o objetivo é pular obstáculos.
+  
+![Duck_Jump](https://github.com/user-attachments/assets/31a866ea-e4a8-4083-8251-95578ed6ab23)
+
+<br>
+
 - `Login Internet`: Uma página de login completa, com design simples e moderno.
+
+![Login_Internet](https://github.com/user-attachments/assets/cded704a-ca70-4ca2-9cc8-7d73feb67b2e)
+
+  <br>
+  
 - `Magic Box`: Um quadrado interativo que permite manipular sua cor, tamanho, bordas e formato por meio de inputs.
+
+  ![Magic_Box1](https://github.com/user-attachments/assets/3b3c2f3f-fee1-4f05-9402-0a1eb90f16aa)
+  ![Magic_Box2](https://github.com/user-attachments/assets/5d5af2cd-eefc-472a-bc0c-4da6ef7ebafd)
+
